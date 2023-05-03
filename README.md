@@ -1,6 +1,6 @@
 
 
-# Yandex_Practicum
+### <h1 align ="center"> Yandex_Practicum
 
 ![image](https://user-images.githubusercontent.com/99074177/235997371-83c300d3-a976-47f7-b927-3b1381963c3a.png)
 
